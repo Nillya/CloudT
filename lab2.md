@@ -36,12 +36,12 @@
 Нижче наведено порівняльну таблицю можливостей AWS, Azure та GCP за п’ятьма критеріями.
 
 | Критерій порівняння          | Amazon Web Services (AWS)                          | Microsoft Azure                                   | Google Cloud Platform (GCP)                       |
-|------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-| Обчислювальні послуги        | EC2, Lambda, Elastic Beanstalk                    | Virtual Machines, Azure Functions, App Service    | Compute Engine, Cloud Functions, App Engine       |
-| Сховища даних                | S3, EBS, Glacier                                  | Blob Storage, Disk Storage, Data Lake            | Cloud Storage, Persistent Disk, Filestore         |
-| Машинне навчання             | SageMaker, Rekognition, Lex                       | Azure Machine Learning, Cognitive Services       | AI Platform, AutoML, Vision AI                    |
-| Глобальна інфраструктура     | 84 зони доступності, 26 регіонів                  | 60+ регіонів, 140+ країн                         | 34 регіони, 103 зони доступності                  |
-| Цінова гнучкість             | Pay-as-you-go, Reserved Instances, Spot Instances | Pay-as-you-go, Reserved VM Instances             | Sustained Use Discounts, Committed Use Discounts  |
+|------------------------------|----------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| Обчислювальні послуги        | EC2, Lambda, Elastic Beanstalk                     | Virtual Machines, Azure Functions, App Service    | Compute Engine, Cloud Functions, App Engine       |
+| Сховища даних                | S3, EBS, Glacier                                   | Blob Storage, Disk Storage, Data Lake             | Cloud Storage, Persistent Disk, Filestore         |
+| Машинне навчання             | SageMaker, Rekognition, Lex                        | Azure Machine Learning, Cognitive Services        | AI Platform, AutoML, Vision AI                    |
+| Глобальна інфраструктура     | 84 зони доступності, 26 регіонів                   | 60+ регіонів, 140+ країн                          | 34 регіони, 103 зони доступності                  |
+| Цінова гнучкість             | Pay-as-you-go, Reserved Instances, Spot Instances  | Pay-as-you-go, Reserved VM Instances              | Sustained Use Discounts, Committed Use Discounts  |
 
 ---
 
@@ -78,7 +78,7 @@
 | Типи послуг                  | Віртуальні сервери, VDI, хостинг                  | IaaS, приватні хмари, S3-сумісне сховище         | VPS, колокація, резервне копіювання              |
 | Локалізація дата-центрів     | Україна, Європа                                   | Україна, Польща                                  | Україна                                          |
 | Технічна підтримка           | 24/7, українською мовою                           | 24/7, багатомовна                                | 24/7, українською мовою                          |
-| Масштабованість              | Висока, гнучкі тарифи                            | Висока, підтримка великих проєктів               | Середня, обмежена апаратними ресурсами           |
+| Масштабованість              | Висока, гнучкі тарифи                            | Висока, підтримка великих проєктів                | Середня, обмежена апаратними ресурсами           |
 | Цінова політика              | Фіксовані тарифи, оплата за місяць| Гнучкі тарифи, погодинна оплата | Доступні ціни, знижки для довгострокових клієнтів|
 
 ---
