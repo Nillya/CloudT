@@ -100,7 +100,7 @@
 
   8. **Крок 7: Додавання додаткового настінного роз’єму та підключення Office-User**  
      Поверніться до шафи з обладнанням і підключіть: G1/0/21 → Jack21, G1/0/22 → Jack22, G1/0/23 → Jack23, G1/0/24 → Jack24 на Patch Panel0. У офісі встановіть новий Wall Mount1 біля вікна (Connections > Structured Cabling > Copper Wall Mount). З’єднайте: Punchdown1 → Punchdown21, Punchdown2 → Punchdown22, Punchdown3 → Punchdown23, Punchdown4 → Punchdown24. Підключіть FastEthernet0 на Office-User до Jack1 на Wall Mount1. Увімкніть DHCP на Office-User (Desktop > IP Configuration > DHCP). Перевірте підключення до office.srv через Web Browser.  
-     📷 ![2024-02-18_050115](https://github.com/user-attachments/assets/d12aa299-dfc2-4f7e-b078-4da2435706a6)
+     📷 ![f](https://github.com/user-attachments/assets/d12aa299-dfc2-4f7e-b078-4da2435706a6)
  
      _Пояснення_: Додавання нового роз’єму та підключення ПК розширює мережу, а перевірка через office.srv підтверджує коректну роботу.
 
