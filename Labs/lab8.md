@@ -116,15 +116,16 @@ print("File downloaded")
 - **Service Accounts**: Акаунти для програмного доступу до ресурсів. Використовуються для автентифікації додатків у GCP.
 
 ---
+
 ## 📋 Хід роботи
 ### 1. Реєстрація акаунту Free Trial у Google Cloud Platform
 1. Перейшов на сайт [cloud.google.com](https://cloud.google.com) і натиснув **Get started for free**.
 2. Увійшов за допомогою Google Account.
 3. Заповнив форму реєстрації (персональні дані заблюрені), додав картку для верифікації.
 4. Отримав підтвердження про 300 USD кредитів на 90 днів.
-<img width="2560" height="1248" alt="изображение" src="https://github.com/user-attachments/assets/1fcd269d-364e-49e5-a954-61f7f27927e9" />
-<img width="1284" height="856" alt="изображение" src="https://github.com/user-attachments/assets/3b91f8b6-8f2a-4497-8acd-ea9d65e42cd2" />
-<img width="1273" height="1166" alt="изображение" src="https://github.com/user-attachments/assets/34c699da-0b1e-4c8b-b861-c969962cc61f" />
+<img width="2560" height="1248" alt="dsf" src="https://github.com/user-attachments/assets/1fcd269d-364e-49e5-a954-61f7f27927e9" />
+<img width="1284" height="856" alt="dsf" src="https://github.com/user-attachments/assets/3b91f8b6-8f2a-4497-8acd-ea9d65e42cd2" />
+<img width="1273" height="1166" alt="dsf" src="https://github.com/user-attachments/assets/34c699da-0b1e-4c8b-b861-c969962cc61f" />
 
 
 ### 2. Вхід у Google Cloud Console
@@ -133,8 +134,8 @@ print("File downloaded")
    - **Dashboard**: Загальний огляд проєктів, ресурсів, активності.
    - **Navigation Menu**: Доступ до всіх сервісів (Compute Engine, Cloud Storage тощо).
    - **Billing**: Інформація про витрати та кредити.
-<img width="1896" height="395" alt="изображение" src="https://github.com/user-attachments/assets/7595cf76-578d-44bf-ab17-2d3c6ca68807" />
-<img width="450" height="842" alt="изображение" src="https://github.com/user-attachments/assets/3da213d6-56ad-4448-a0f5-a1c6934f1650" />
+<img width="1896" height="395" alt="dsf" src="https://github.com/user-attachments/assets/7595cf76-578d-44bf-ab17-2d3c6ca68807" />
+<img width="450" height="842" alt="dsf" src="https://github.com/user-attachments/assets/3da213d6-56ad-4448-a0f5-a1c6934f1650" />
 
 
 ### 3. Налаштування двофакторної аутентифікації (2-Step Verification)
@@ -142,9 +143,9 @@ print("File downloaded")
 2. Увімкнув MFA через Google Authenticator.
 3. Згенерував QR-код, просканував його у додатку Google Authenticator.
 4. Зберіг резервні коди.
-<img width="1642" height="801" alt="изображение" src="https://github.com/user-attachments/assets/f96afe48-3917-48fb-9ff4-b29a9bfc03cc" />
+<img width="1642" height="801" alt="dsf" src="https://github.com/user-attachments/assets/f96afe48-3917-48fb-9ff4-b29a9bfc03cc" />
 
-<img width="1034" height="582" alt="изображение" src="https://github.com/user-attachments/assets/2ce40c73-3b61-4b84-96e0-e68acd8b7f34" />
+<img width="1034" height="582" alt="dsf" src="https://github.com/user-attachments/assets/2ce40c73-3b61-4b84-96e0-e68acd8b7f34" />
 
 
 ### 4. Створення бюджету “Zero Spend Budget”
@@ -152,27 +153,27 @@ print("File downloaded")
 2. Створив бюджет із назвою “Zero Spend Budget”, встановив ліміт 0 USD.
 3. Налаштував сповіщення на email при досягненні ліміту.
 
-<img width="1174" height="436" alt="изображение" src="https://github.com/user-attachments/assets/7c5ab4e3-4a1e-40a9-b3ad-14ae361961f2" />
+<img width="1174" height="436" alt="dsf" src="https://github.com/user-attachments/assets/7c5ab4e3-4a1e-40a9-b3ad-14ae361961f2" />
 
-<img width="931" height="273" alt="изображение" src="https://github.com/user-attachments/assets/28c35b88-1db5-4ee8-a1ef-8195ca316be1" />
+<img width="931" height="273" alt="dsf" src="https://github.com/user-attachments/assets/28c35b88-1db5-4ee8-a1ef-8195ca316be1" />
 
-<img width="891" height="394" alt="изображение" src="https://github.com/user-attachments/assets/ab2a7631-8719-4f0b-8c5c-7c496d4ddf0d" />
+<img width="891" height="394" alt="dsf" src="https://github.com/user-attachments/assets/ab2a7631-8719-4f0b-8c5c-7c496d4ddf0d" />
 
-<img width="795" height="304" alt="изображение" src="https://github.com/user-attachments/assets/b6c7a972-3278-4c84-9cd1-3376fc15f189" />
+<img width="795" height="304" alt="dsf" src="https://github.com/user-attachments/assets/b6c7a972-3278-4c84-9cd1-3376fc15f189" />
 
-<img width="235" height="395" alt="изображение" src="https://github.com/user-attachments/assets/d5e5eef0-d9a7-4b30-8242-b7e9dd439085" />
+<img width="235" height="395" alt="dsf" src="https://github.com/user-attachments/assets/d5e5eef0-d9a7-4b30-8242-b7e9dd439085" />
 
-<img width="952" height="353" alt="изображение" src="https://github.com/user-attachments/assets/c2be1f50-8eb5-4a5d-b076-a3e54de301b8" />
+<img width="952" height="353" alt="dsf" src="https://github.com/user-attachments/assets/c2be1f50-8eb5-4a5d-b076-a3e54de301b8" />
 
-<img width="722" height="546" alt="изображение" src="https://github.com/user-attachments/assets/d1c3e72c-d271-4783-91f9-77bcdfb3c60a" />
+<img width="722" height="546" alt="dsf" src="https://github.com/user-attachments/assets/d1c3e72c-d271-4783-91f9-77bcdfb3c60a" />
 
-<img width="721" height="545" alt="изображение" src="https://github.com/user-attachments/assets/18e284fd-db21-401d-a88e-e3c5ac79e798" />
+<img width="721" height="545" alt="dsf" src="https://github.com/user-attachments/assets/18e284fd-db21-401d-a88e-e3c5ac79e798" />
 
-<img width="745" height="475" alt="изображение" src="https://github.com/user-attachments/assets/173595fb-760a-40f9-99c1-e84ee58ef301" />
+<img width="745" height="475" alt="dsf" src="https://github.com/user-attachments/assets/173595fb-760a-40f9-99c1-e84ee58ef301" />
 
-<img width="735" height="539" alt="изображение" src="https://github.com/user-attachments/assets/813b760c-647c-45ce-887a-822165adcf88" />
+<img width="735" height="539" alt="dsf" src="https://github.com/user-attachments/assets/813b760c-647c-45ce-887a-822165adcf88" />
 
-<img width="1066" height="385" alt="изображение" src="https://github.com/user-attachments/assets/44d572e2-5730-4e62-81c0-15122a4b25b0" />
+<img width="1066" height="385" alt="dsf" src="https://github.com/user-attachments/assets/44d572e2-5730-4e62-81c0-15122a4b25b0" />
 
 
 
@@ -181,14 +182,14 @@ print("File downloaded")
 2. Додав себе (gmail). 
 3. Підтвердив створення групи.
 
-<img width="1596" height="761" alt="изображение" src="https://github.com/user-attachments/assets/52ad9dc5-783c-4153-9bde-300c52b00dcb" />
+<img width="1596" height="761" alt="dsf" src="https://github.com/user-attachments/assets/52ad9dc5-783c-4153-9bde-300c52b00dcb" />
 
 ### 6. Створення групи “readonly”
 1. У **IAM & Admin** → **Groups** створив групу “readonly”.
 2. Додав одного користувача з групи “developers”.
 3. Перевірив членство користувача у групах через **IAM & Admin** → **IAM**.
 
-<img width="655" height="581" alt="изображение" src="https://github.com/user-attachments/assets/79e58b71-71f2-4b56-83d8-daad5e07b248" />
+<img width="655" height="581" alt="dsf" src="https://github.com/user-attachments/assets/79e58b71-71f2-4b56-83d8-daad5e07b248" />
 
 
 ### 7. Встановлення Google Cloud SDK (CLI)
@@ -198,9 +199,9 @@ print("File downloaded")
    ```bash
    gcloud --version
    ```
-<img width="1161" height="748" alt="изображение" src="https://github.com/user-attachments/assets/c01d1308-0812-4fb4-bf5c-f485702f6c3d" />
+<img width="1161" height="748" alt="dsf" src="https://github.com/user-attachments/assets/c01d1308-0812-4fb4-bf5c-f485702f6c3d" />
 
-<img width="424" height="224" alt="изображение" src="https://github.com/user-attachments/assets/0c4b2f10-c4a0-48a7-90c4-6db251b6dcde" />
+<img width="424" height="224" alt="dsf" src="https://github.com/user-attachments/assets/0c4b2f10-c4a0-48a7-90c4-6db251b6dcde" />
 
 
 ### 8. Конфігурація Google Cloud CLI
@@ -211,7 +212,7 @@ print("File downloaded")
 2. Відкрив посилання у браузері, увійшов у Google Account.
 3. Підтвердив авторизацію.
 
-<img width="876" height="240" alt="изображение" src="https://github.com/user-attachments/assets/9d6a29b4-ed10-444f-8a35-eda52d15c81b" />
+<img width="876" height="240" alt="dsf" src="https://github.com/user-attachments/assets/9d6a29b4-ed10-444f-8a35-eda52d15c81b" />
 
 
 ### 9. Перевірка віртуальних машин у Compute Engine
@@ -266,6 +267,7 @@ print("File downloaded")
    Видаляє VM із зазначеної зони.
 
 ---
+
 ## ❓ Контрольні питання
 1. **У чому полягає принцип роботи TOTP-аутентифікації? Наведіть приклади в контексті Google Authenticator і 2-Step Verification.**
    **TOTP (Time-based One-Time Password)** генерує тимчасові паролі на основі часу та секретного ключа. Google Authenticator створює 6-8-значний код кожні 30 секунд. У 2-Step Verification користувач сканує QR-код для прив’язки пристрою, після чого вводить код із Authenticator для підтвердження входу.
@@ -297,10 +299,12 @@ print("File downloaded")
    - `gcloud storage cp file.txt gs://my-bucket` – копіювання файлу до Cloud Storage.
 
 ---
+
 ## 📝 Висновки
 Лабораторна робота №8 дозволила ознайомитися з Google Cloud Platform, її основними сервісами та інструментами. Виконано реєстрацію акаунту Free Trial, налаштування двофакторної аутентифікації, створення бюджету та груп у IAM, встановлення та конфігурація Google Cloud SDK. Робота поглибила розуміння хмарних технологій, зокрема Compute Engine, Cloud Storage, App Engine та IAM. Освоєно базові команди gcloud для керування ресурсами.
 
 ---
+
 ## 🔗 Корисні посилання
 - [Google Cloud Console](https://console.cloud.google.com)
 - [Google Cloud SDK Documentation](https://cloud.google.com/sdk/docs)

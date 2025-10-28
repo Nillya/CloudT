@@ -280,3 +280,9 @@ View: Users > NagorniyIM > Groups: developers, readonly.
 Команди wait: `aws cloudformation wait change-set-create-complete ...`.
 
 Ресурси: [Reference Guide](https://docs.aws.amazon.com/cli/latest/reference/index.html), [Troubleshooting](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-troubleshooting.html).
+
+## 🎯 Система оцінювання
+- Питання попередньої підготовки - 5 балів
+- Практичні питання з ходу роботи - 10 балів 
+- Контрольні запитання та висновки - 5 балів
+- Використання англійської мови (фрагментарно) +5 балів 

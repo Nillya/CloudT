@@ -337,3 +337,10 @@
 - [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)
 - [Nginx Configuration](https://nginx.org/en/docs/)
 - Відео: [AWS для початківців. Урок 4](https://youtu.be/hbCdeyEFN-0?si=vGfaoyn0d_zx6h5G),[Getting Started With AWS Cloud | Step-by-Step Guide](https://youtu.be/4Vjhby3-gGI?si=kD9l_ub-TU9yqyj4), [Step-by-Step Guide: Setting Up AWS EC2](https://youtu.be/CjKhQoYeR4Q?si=uF7cwfvrnLyO121y), [Навчальне вiдео](https://www.youtube.com/watch?v=hbCdeyEFN-0), [Навчальне вiдео 2](https://www.youtube.com/watch?v=CjKhQoYeR4Q), [Навчальне вiдео 3](https://www.youtube.com/watch?v=4Vjhby3-gGI).
+
+## 🎯 Система оцінювання (25 балів)
+- 📦 Питання попередньої підготовки: 5 балів  
+- ⚡ Практичне завдання №1: 5 балів  
+- 📊 Практичне завдання №2: 5 балів  
+- ❓ Контрольні питання та висновки: 5 балів  
+- 🌐 Використання англійської мови (фрагментарно): +5 балів
