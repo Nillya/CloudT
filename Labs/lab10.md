@@ -290,7 +290,6 @@ docker run -d -p 8081:80 --name my-debian-nginx debian /usr/sbin/nginx -g 'daemo
 - [Docker Docs](https://docs.docker.com)
 - [Docker Hub](https://hub.docker.com)
 - [Play with Docker](https://labs.play-with-docker.com)
-- [Docker Crash Course](https://youtu.be/example)
 - [Docker - що таке докер?](https://youtu.be/ntNmPkoF_CU?si=ODG4gDd0hsttcqPP)
 - [Що таке docker? Контейнери та образи](https://youtu.be/3R3QMbIeJb8?si=zsxUI9qhm_ZAMaeS)
 - [Docker: Cтворення Image з Dockerfile. Робота з DockerHub. Cтарт і Cтоп DOCKER Контейнерів](https://youtu.be/C5QjvhFN6PE?si=1ul-5r7w0Sm-rV8E)
